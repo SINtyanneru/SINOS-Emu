@@ -88,7 +88,9 @@ namespace SINOS
 
             webView.CoreWebView2.OpenDevToolsWindow();
 
-            webView.CoreWebView2.Navigate(@"file:///C:\Users\Rumisan\source\SINOS_HTML\index.html");
+            StreamReader sr_index_path = new StreamReader(@"C:\RUMISYSTEM\SINOS\CONF\SYS\WEBPATH\INDEX.txt", Encoding.GetEncoding("UTF-8"));
+
+            webView.CoreWebView2.Navigate(@"file:///" + sr_index_path.ReadToEnd());
         }
     }
 
