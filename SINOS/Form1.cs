@@ -86,7 +86,7 @@ namespace SINOS
             //キー無効化
             //webView.CoreWebView2.Settings.AreBrowserAcceleratorKeysEnabled = false;
 
-            webView.CoreWebView2.OpenDevToolsWindow();
+            //webView.CoreWebView2.OpenDevToolsWindow();
 
             StreamReader sr_index_path = new StreamReader(@"C:\RUMISYSTEM\SINOS\CONF\SYS\WEBPATH\INDEX.txt", Encoding.GetEncoding("UTF-8"));
 
@@ -245,6 +245,15 @@ namespace SINOS
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        public void DownloadFile(string URL, string Path)
+        {
+            string path = root + Path.Replace("/", @"\");
+
+            System.Net.WebClient wc = new System.Net.WebClient();
+            wc.DownloadFile(URL, path);
+            wc.Dispose();
         }
 
         public string OpenFileDialog()
