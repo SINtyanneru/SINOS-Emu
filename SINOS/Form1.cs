@@ -17,6 +17,7 @@ using Microsoft.Web.WebView2.Wpf;
 using System.Runtime.InteropServices.ComTypes;
 using MediaPlayer;
 using System.Media;
+using System.IO.Compression;
 
 namespace SINOS
 {
@@ -247,7 +248,7 @@ namespace SINOS
             }
         }
 
-        public void DownloadFile(string URL, string Path)
+        public void UpDownloadFile(string URL, string Path)
         {
             string path = root + Path.Replace("/", @"\");
 
