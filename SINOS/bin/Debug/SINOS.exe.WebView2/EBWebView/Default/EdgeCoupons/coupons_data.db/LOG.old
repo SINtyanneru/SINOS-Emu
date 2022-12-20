@@ -1,2 +1,3 @@
-2022/12/14-23:52:35.486 79ec Creating DB C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\EdgeCoupons/coupons_data.db since it was missing.
-2022/12/14-23:52:35.523 79ec Reusing MANIFEST C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2022/12/20-18:18:26.150 75a8 Reusing MANIFEST C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2022/12/20-18:18:26.151 75a8 Recovering log #3
+2022/12/20-18:18:26.152 75a8 Reusing old log C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\EdgeCoupons/coupons_data.db/000003.log 

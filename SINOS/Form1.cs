@@ -274,5 +274,12 @@ namespace SINOS
                 return Convert.ToBase64String(bites);
             }
         }
+
+        //エラー時の停止
+        public void Stop()
+        {
+            ERROR_VIEWER eRROR_VIEWER = new ERROR_VIEWER();
+            eRROR_VIEWER.ShowDialog();
+        }
     }
 }

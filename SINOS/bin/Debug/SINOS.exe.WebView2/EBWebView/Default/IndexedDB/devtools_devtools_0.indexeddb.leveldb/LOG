@@ -1,2 +1,3 @@
-2022/12/14-23:52:39.142 2620 Creating DB C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb since it was missing.
-2022/12/14-23:52:39.149 2620 Reusing MANIFEST C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/20-18:10:57.596 88a8 Reusing MANIFEST C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/20-18:10:57.597 88a8 Recovering log #3
+2022/12/20-18:10:57.598 88a8 Reusing old log C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\SINOS.exe.WebView2\EBWebView\Default\IndexedDB\devtools_devtools_0.indexeddb.leveldb/000003.log 

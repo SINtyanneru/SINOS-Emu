@@ -26,3 +26,4 @@ C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\Newtonsoft.Json.Bson.pdb
 C:\Users\Rumisan\source\SINOS\SINOS\bin\Debug\Newtonsoft.Json.Bson.xml
 C:\Users\Rumisan\source\SINOS\SINOS\obj\Debug\Interop.MediaPlayer.dll
 C:\Users\Rumisan\source\SINOS\SINOS\obj\Debug\SINOS.csproj.ResolveComReference.cache
+C:\Users\Rumisan\source\SINOS\SINOS\obj\Debug\SINOS.ERROR_VIEWER.resources
